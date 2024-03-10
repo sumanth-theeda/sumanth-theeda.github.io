@@ -12,7 +12,7 @@ vertically upward direction or in horizontal direction. Hence, the numerical mod
 against the data provided in open literature for vertically upward flows. The same models are
 extended for vertically downward sub-cooled flows in present investigation and the results for
 upward and downward flows are compared.'
-date: 2018-07
+date: 2018-07-09
 venue: 'Thermacomp 2018'
 paperurl: 'http://sumanth-theeda.github.io/files/therma_conf.pdf'
 citation: 'Sumanth, T., et al. "Numerical analysis of critical heat flux during subcooled boiling for a vertically downward flow." Proceedings of Thermacomp2018, fifth international conference on computational methods for thermal problems, Indian Institute of Science, Bangalore, India. 2018.'

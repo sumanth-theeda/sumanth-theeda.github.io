@@ -3,11 +3,19 @@ title: "Numerical Analysis of Critical Heat Flux during Subcooled Boiling for a
 Vertically Downward Flow"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-07-09
-venue: 'Journal 1'
+excerpt: 'The present study focuses on the numerical analysis carried in a vertically downward sub-cooled
+flow using finite volume based commercial software Fluent by ANSYS Inc. Rensselaer Polytechnic
+Institute (RPI) boiling model in Fluent is used to predict the void fraction and CHF in a vertically
+downward flow. Turbulence effects are modeled by Shear Stress Transport (SST) k-ω and k-ɛ
+models. Most of the numerical work carried till date on two-phase flows focused on flow in
+vertically upward direction or in horizontal direction. Hence, the numerical models are validated
+against the data provided in open literature for vertically upward flows. The same models are
+extended for vertically downward sub-cooled flows in present investigation and the results for
+upward and downward flows are compared.'
+date: 2018-07
+venue: 'Thermacomp 2018'
 paperurl: 'http://sumanth-theeda.github.io/files/therma_conf.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sumanth, T., et al. "Numerical analysis of critical heat flux during subcooled boiling for a vertically downward flow." Proceedings of Thermacomp2018, fifth international conference on computational methods for thermal problems, Indian Institute of Science, Bangalore, India. 2018.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

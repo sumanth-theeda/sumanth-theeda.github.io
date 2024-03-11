@@ -4,12 +4,9 @@ collection: talks
 type: "Talk"
 permalink: /talks/talk1
 venue: "Solid Freeform Fabrication, UT Austin"
-date: 2014-02-01
+date: 2022-07-25
 location: "Austin, Texas, USA"
 ---
-
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
 
 # checkthistoo
 

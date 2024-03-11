@@ -1,6 +1,6 @@
 ---
-title: "Numerical Analysis of Thermally downward flow"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Numerical Analysis of Thermally downward flow check man"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/selective.png'>"
 collection: projects
 ---
 

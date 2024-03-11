@@ -25,6 +25,7 @@ I am actively looking for a full time position starting from June 2024. I am ope
 
 ## 2022
 
+- Sumanth wins the best graduate student poster presentation award at research week, UT Dallas.
 - Sumanth presented a talk at the Solid Freeform Fabrication symposium in Austin, TX!
 - Sumanth's work on selective area fabrication of metallic glasses published in Materials letters. Congratulations! 🎉
 - Review paper on Thermoplastic drawing of metallic glasses published in Metals. Congratulations! 🎉
@@ -36,3 +37,4 @@ I am actively looking for a full time position starting from June 2024. I am ope
 ## 2020
 
 - Sumanth joined AMM lab at the UT Dallas as a Ph.D. student.
+- Sumanth graduated with a MS in Mechanical Engineering from UB

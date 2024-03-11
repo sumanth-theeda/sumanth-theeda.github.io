@@ -17,5 +17,3 @@ venue: 'Thermacomp 2018'
 paperurl: 'http://sumanth-theeda.github.io/files/therma_conf.pdf'
 citation: 'Sumanth, T., et al. "Numerical analysis of critical heat flux during subcooled boiling for a vertically downward flow." Proceedings of Thermacomp2018, fifth international conference on computational methods for thermal problems, Indian Institute of Science, Bangalore, India. 2018.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

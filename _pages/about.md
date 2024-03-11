@@ -20,19 +20,19 @@ I am actively looking for a full time position starting from June 2024. I am ope
 
 ## 2023
 
-Sumanth's work on Neural networks for optimizing process parameters in 3D printing published in Metals. Congratulations! 🎉\
-Sumanth's work on area specific positioning of metallic glasses published in Nanomanufacturing and Metrology. Congratulations! 🎉\
+-Sumanth's work on Neural networks for optimizing process parameters in 3D printing published in Metals. Congratulations! 🎉\
+-Sumanth's work on area specific positioning of metallic glasses published in Nanomanufacturing and Metrology. Congratulations! 🎉
 
 ## 2022
 
-Sumanth presented a talk at the Solid Freeform Fabrication symposium in Austin, TX!\
-Sumanth's work on selective area fabrication of metallic glasses published in Materials letters. Congratulations! 🎉\
-Review paper on Thermoplastic drawing of metallic glasses published in Metals. Congratulations! 🎉\
+-Sumanth presented a talk at the Solid Freeform Fabrication symposium in Austin, TX!\
+-Sumanth's work on selective area fabrication of metallic glasses published in Materials letters. Congratulations! 🎉\
+-Review paper on Thermoplastic drawing of metallic glasses published in Metals. Congratulations! 🎉
 
 ## 2021
 
-Sumanth passed his Ph.D. qualifier examination. Congratulations! 🎉
+-Sumanth passed his Ph.D. qualifier examination. Congratulations! 🎉
 
 ## 2020
 
-Sumanth joined AMM lab at the UT Dallas as a Ph.D. student.
+-Sumanth joined AMM lab at the UT Dallas as a Ph.D. student.

@@ -39,6 +39,7 @@ conducting numerous experiments to understand the flow patterns and the CHF in v
 downward two-phase flow is time consuming and expensive. All these constraints give an
 opportunity to leverage the numerical tools that are relatively less expensive and are quicker to
 estimate CHF.
+
 The present study focuses on the numerical analysis carried in a vertically downward subcooled
 flow using finite volume based commercial software Fluent by ANSYS Inc. Rensselaer Polytechnic
 Institute (RPI) boiling model in Fluent is used to predict the void fraction and CHF in a vertically

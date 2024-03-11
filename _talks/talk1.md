@@ -3,14 +3,13 @@ title: "Optimization of Laser Process Parameters Using Machine Learning Algorith
 collection: talks
 type: "Talk"
 permalink: /talks/talk1
-venue: "Solid Freeform Fabrication, UT Austin"
+venue: "2022 International Solid Freeform Fabrication, UT Austin"
 date: 2022-07-25
 location: "Austin, Texas, USA"
 ---
 
-# checkthistoo
+[Click here for the paper](http://dx.doi.org/10.26153/tsw/44608)
 
-hi
 
 # Abstract
 

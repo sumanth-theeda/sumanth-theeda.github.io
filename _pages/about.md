@@ -8,15 +8,17 @@ redirect_from:
 ---
 # About me
 
-I am a final year Ph.D. student in Mechanical Engineering with a focus on developing and optimizing novel fabrication techniques for metallic components. I work in the [Advanced Materials and Manufacturing Lab](https://labs.utdallas.edu/kumar-lab/), where I have published papers on selective area fabrication and area specific positioning of bulk metallic glasses. For my dissertation, I am working on integrating bulk metallic glass nanowires in microfluidic channels and study their performance in particle trapping. I am also applying machine learning and deep learning algorithms to optimize the process parameters in laser powder bed fusion, a widely used technique in additive manufacturing.
+I am a final-year Ph.D. candidate in Mechanical Engineering at the University of Texas at Dallas, specializing in advanced manufacturing techniques for metallic components. My research, conducted in the [Advanced Materials and Manufacturing Lab](https://labs.utdallas.edu/kumar-lab/)focuses on bulk metallic glasses and microfabrication, resulting in multiple publications and a provisional patent.
 
-I completed my M.S. in Mechanical Engineering from the University at Buffalo, where I was a graduate research assistant at the Nano/Microfluidics Laboratory. There, I worked on various projects involving image analysis algorithms and developed a novel fabrication technique to reduce the surface hydrophobicity of PDMS membranes.
+With a strong background in design for manufacturing, cleanroom processing, and data-driven optimization, I bring expertise in tools like SolidWorks, COMSOL, AutoCAD, and statistical analysis software. I have hands-on experience in additive manufacturing, lithography, etching, and microfluidic device fabrication.
 
-I have a strong background in product design, problem solving, and design for manufacturing, and have experience of using various CAE, CAD, and programming tools. I am passionate about conducting interdisciplinary research that can advance the fields of nanofabrication, nanomaterials, additive manufacturing, microfluidics, and fluid simulations.
-
-I am actively looking for a full time position starting from June 2024. I am open to discuss any relevant opportunities and I love talking about nano-stuff!
+I am passionate about interdisciplinary problem-solving at the intersection of nanofabrication, materials design, and process optimization. Actively seeking full-time opportunities starting December 2024, I am excited to contribute to cutting-edge innovations in nanotechnology, manufacturing, and fluid systems.
 
 # News
+
+## 2024
+
+- Sumanth successfully defended his dissertation. Congratulations!🎉
 
 ## 2023
 

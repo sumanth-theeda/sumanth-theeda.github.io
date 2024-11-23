@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HOME_CHECK"
+title                    : "Sumanth's Webpage"
 title_separator          : "-"
 name                     : &name "Sumanth Theeda"
 description              : &description "Ph.D. student"
@@ -22,13 +22,13 @@ repository               : "sumanth-theeda/sumanth-theeda.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sumanth Theeda"
+  name             : "Dr. Sumanth Theeda"
   pronouns         : # example: "she/her"
   bio              : "Doctoral candidate in Mechanical Engineering"
   location         : "Richardson, Texas, USA"
   employer         : "The University of Texas at Dallas"
   uri              : # URL
-  email            : "sumanth.theeda@utdallas.edu"
+  email            : "theedasumanth9@gmail.com"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=Nc-I0A0AAAAJ&hl=en&oi=ao"

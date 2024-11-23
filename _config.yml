@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sumanth's webpage"
+title                    : "HOME_CHECK"
 title_separator          : "-"
 name                     : &name "Sumanth Theeda"
 description              : &description "Ph.D. student"

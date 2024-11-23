@@ -8,7 +8,7 @@ redirect_from:
 ---
 # About me
 
-I am a final-year Ph.D. candidate in Mechanical Engineering at the University of Texas at Dallas, specializing in advanced manufacturing techniques for metallic components. My research, conducted in the [Advanced Materials and Manufacturing Lab](https://labs.utdallas.edu/kumar-lab/)focuses on bulk metallic glasses and microfabrication, resulting in multiple publications and a provisional patent.
+I am a final-year Ph.D. candidate in Mechanical Engineering at the University of Texas at Dallas, specializing in advanced manufacturing techniques for metallic components. My research, conducted in the [Advanced Materials and Manufacturing Lab](https://labs.utdallas.edu/kumar-lab/) focuses on bulk metallic glasses and microfabrication, resulting in multiple publications and a provisional patent.
 
 With a strong background in design for manufacturing, cleanroom processing, and data-driven optimization, I bring expertise in tools like SolidWorks, COMSOL, AutoCAD, and statistical analysis software. I have hands-on experience in additive manufacturing, lithography, etching, and microfluidic device fabrication.
 

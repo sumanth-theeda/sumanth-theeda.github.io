@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, The University of Texas at Dallas, 2024 (expected)
+* Ph.D in Mechanical Engineering, The University of Texas at Dallas, 2024
 * M.S. in Mechanical Engineering, The State University of New York at Buffalo, 2020
 * B.Tech. in Mechanical Engineering, Jawaharlal Nehru Technological University, 2018
+
+Skills
+======
+* __Semiconductor Fabrication:__  Lithography, Wet/Dry Etching, RIE, CVD, PVD, CMP, Epitaxy, Wafer dicing and packaging.
+* __Cleanroom Tools:__ SEM, Photolithography, E-Beam, EDAX, XRD, Plasma etching, Thin-film deposition, Sputtering.
+* __Process Optimization and Data Analysis:__ Design of Experiments (DOE), Statistical Process Control (SPC), RSM, Minitab, JMP.
+* __Computer Aided Design:__ AutoCAD, Pro/E, Creo, SolidWorks, CATIA, ANSYS, COMSOL, Abaqus, Autodesk Inventor.
+* __Software:__ Microsoft office, Origin, KLayout, Python, MATLAB, TensorFlow, Keras, C++.
+* __Manufacturing:__ Laser Powder Bed Fusion (LPBF), Molding, Additive Manufacturing, Furnace Melting, Quenching.
+
+
 
 Work experience
 ======
@@ -32,14 +43,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +64,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Active part of Mechanical Engineering Graduate Association
